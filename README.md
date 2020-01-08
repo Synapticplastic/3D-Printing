@@ -1,4 +1,4 @@
-# NeuroFUS
+# 3D Printing
 Fomenko et al. manuscript (under review) models for 3D printing
 
 These are STL files which can be freely 3D printed for the purpose of replicating experiments in the publication 
