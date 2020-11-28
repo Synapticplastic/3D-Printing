@@ -8,3 +8,7 @@ Depending on the diameter and thickness of the transducer, this may need to be m
 The second file adapts a FUS transducer alone the scalp, with slits for velcro straps 
 
 For citation: eLife 2020;9:e54497  DOI: 10.7554/eLife.54497
+
+For any 3D-printing or design-related questions please email fomenkoa@myumanitoba.ca
+
+Last update: Nov 27, 2020
